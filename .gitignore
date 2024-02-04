@@ -2,5 +2,5 @@
 *.pyc
 *~
 *.png
-*.jpg
+*.bmp
 **/.ipynb_checkpoints
